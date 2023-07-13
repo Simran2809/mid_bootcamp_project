@@ -7,4 +7,9 @@ Project Purpose: Delving deep into financial historical data of 12 Nifty 50 stoc
 
 Key Findings: Discover answers to burning questions for individual investors, offering insights on market opportunities and more! 🧐🔍
 
-Data Source: Check out the finance.yahoo.com link in our bio for the project's data source. 📚🔗
+Data Source: Check out the finance.yahoo.com links for the project's data source. 📚🔗
+Nifty 50:
+Tata Motors
+Eicher Motors
+Mahindra
+Maruti Suzuki India Limited: https://finance.yahoo.com/quote/MARUTI.NS/history?period1=1364774400&period2=1680220800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true

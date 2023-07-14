@@ -1,6 +1,6 @@
 # mid_bootcamp_project
 
-# 📊 Nifty 50 Stock Market Analysis🏛️📈
+# 📊 Unlocking Investment Opportunities: Stocks, Sectors and the Nifty 50 Index Market Analysis🏛️📈
 
 ## Introduction
 The Nifty 50 is a benchmark Indian stock market index that represents the weighted average of 50 of the largest Indian companies listed on the National Stock Exchange. This project focuses on exploring the performance of 12 Nifty 50 stocks from three sectors: Automotive Industry, Health Care, and Banking and Finance.
